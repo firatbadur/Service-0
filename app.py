@@ -22,7 +22,6 @@ siteID = station_details[0]
 auth_user = station_details[4]
 auth_pass = station_details[5]
 
-xvbvbcvb
 app = Flask(__name__)
 scheduler = APScheduler()
 
